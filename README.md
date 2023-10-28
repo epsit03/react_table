@@ -1,4 +1,7 @@
-# React + Vite
+# React Table
+A vite+react based site fetching data from an API and showing it in form of a dynamic table. 
+___
+## React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
