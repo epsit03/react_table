@@ -1,5 +1,7 @@
 # React Table
-A vite+react based site fetching data from an API and showing it in form of a dynamic table. 
+A vite+react based site fetching data from an API and showing it in form of a dynamic table.
+
+URL for the sample data: https://jsonplaceholder.typicode.com/users
 ___
 ## React + Vite
 
